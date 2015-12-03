@@ -3,9 +3,7 @@ TITLE Program Multiple_Byte_Key_Encryption			(Multiple_Byte_Key_Encryption.asm)
 ; Program:     Multiple_Byte_Key_Encryption.asm
 ; Description: This program creates ciphere text from the given string
 ; Student:     Krutik Amin
-; Date:        03/26/2014
 ; Class:       CSCI 241
-; Instructor:  Mr. Ding
 
 INCLUDE Irvine32.inc
 
